@@ -34,11 +34,12 @@
   font-family: "Raleway-Regular";
   src: url("../fonts/Raleway-Regular.ttf"); }
 
-.page-header {
+body {
   max-width: 1500px;
+  margin: 0 auto; }
+
+.page-header {
   height: 200px;
-  background-color: black;
-  transform: rotate(90deg);
-  white-space: nowrap; }
+  background-color: yellowgreen; }
 
 /*# sourceMappingURL=style.css.map */
